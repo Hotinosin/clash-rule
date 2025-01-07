@@ -1,0 +1,10 @@
+# 补充列表-custom-rules
+
+# 域名后缀匹配
+DOMAIN-SUFFIX,grabcad.com
+
+# 域名关键字匹配
+DOMAIN-KEYWORD,shuttle
+DOMAIN-KEYWORD,macapp
+
+
