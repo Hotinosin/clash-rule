@@ -4,8 +4,9 @@
 DOMAIN-SUFFIX,grabcad.com
 DOMAIN-SUFFIX,linux.do
 DOMAIN-SUFFIX,grempt.com
+
 # 域名关键字匹配
 DOMAIN-KEYWORD,shuttle
 DOMAIN-KEYWORD,macapp
-
+DOMAIN-KEYWORD,github
 
