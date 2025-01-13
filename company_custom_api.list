@@ -1,0 +1,13 @@
+  # 数据策略组
+ - DOMAIN-KEYWORD,okx
+ - DOMAIN-KEYWORD,binance
+ - DOMAIN-SUFFIX,1token.tech
+# - DOMAIN-SUFFIX,api.binance.com
+# - DOMAIN-SUFFIX,fapi.binance.com
+# - DOMAIN-SUFFIX,stream.binance.com
+# - DOMAIN-SUFFIX,api.huobi.pro
+# - DOMAIN-SUFFIX,api.COINbase.com
+# - DOMAIN-SUFFIX,dapi.binance.com
+# - DOMAIN-SUFFIX,dstream.binance.com
+# - DOMAIN-SUFFIX,papi.binance.com
+# - DOMAIN-SUFFIX,fstream.binance.com
