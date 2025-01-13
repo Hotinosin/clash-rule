@@ -1,10 +1,10 @@
 # DIRECT
- - DOMAIN-KEYWORD,szse
- - DOMAIN-SUFFIX,xiaoeknow.com
- - DOMAIN,hotinosin.eu.org
- - DOMAIN-SUFFIX,governance.mav.xyz
+DOMAIN-KEYWORD,szse
+DOMAIN-SUFFIX,xiaoeknow.com
+DOMAIN,hotinosin.eu.org
+DOMAIN-SUFFIX,governance.mav.xyz
 # com
- - DOMAIN-SUFFIX,api.upyun.com
- - DOMAIN-SUFFIX,quantclass.cn
- - DOMAIN-KEYWORD,quantclass
- - DOMAIN,checkip.amazonaws.com
+DOMAIN-SUFFIX,api.upyun.com
+DOMAIN-SUFFIX,quantclass.cn
+DOMAIN-KEYWORD,quantclass
+DOMAIN,checkip.amazonaws.com
