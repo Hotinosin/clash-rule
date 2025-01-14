@@ -1,6 +1,7 @@
 #订阅机场
 DOMAIN-SUFFIX,grempt.com
-DOMAIN-KEYWORD,shuttle
+DOMAIN-SUFFIX,shuttle.gt-all.com
+DOMAIN-SUFFIX,gt-go.com
 
 #日常
 DOMAIN-SUFFIX,jetbrains.com
