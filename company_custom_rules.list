@@ -1,9 +1,9 @@
 #订阅机场
 DOMAIN-SUFFIX,grempt.com
+DOMAIN-KEYWORD,shuttle
 
 #日常
 DOMAIN-SUFFIX,jetbrains.com
-DOMAIN-SUFFIX,github.com 
 DOMAIN-SUFFIX,atlassian.com
 DOMAIN-SUFFIX,thingiverse.com
 DOMAIN-SUFFIX,yts.mx
