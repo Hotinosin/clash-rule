@@ -71,4 +71,4 @@ DOMAIN-SUFFIX,base-pokt.nodies.app
 DOMAIN-SUFFIX,evm.cronos.org
 DOMAIN-SUFFIX,mainnet.optimism.io
 DOMAIN-SUFFIX,app.meteora.ag
-DOMAIN-SUFFIX,jup.ag
+DOMAIN,jup.ag
