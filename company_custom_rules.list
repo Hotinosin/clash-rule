@@ -23,7 +23,8 @@ DOMAIN-SUFFIX,qichiyu.com
 DOMAIN-SUFFIX,rsshub.app
 DOMAIN-SUFFIX,v2ex.com
 DOMAIN-KEYWORD,docker
- 
+DOMAIN,registry.docker.io
+
 #crypto
 DOMAIN-SUFFIX,celer.network
 DOMAIN-KEYWORD,gateio
