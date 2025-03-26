@@ -1,7 +1,6 @@
 # 补充列表-custom-rules
 
 # 域名后缀匹配
-DOMAIN-SUFFIX,cn
 DOMAIN-SUFFIX,grabcad.com
 DOMAIN-SUFFIX,linux.do
 DOMAIN-SUFFIX,printables.com
