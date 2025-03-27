@@ -22,8 +22,8 @@ DOMAIN-SUFFIX,tradingview.com
 DOMAIN-SUFFIX,qichiyu.com
 DOMAIN-SUFFIX,rsshub.app
 DOMAIN-SUFFIX,v2ex.com
-DOMAIN-KEYWORD,docker
-DOMAIN,registry.docker.io
+DOMAIN-SUFFIX,docker.com
+DOMAIN-SUFFIX,docker.io
 
 #crypto
 DOMAIN-SUFFIX,celer.network
