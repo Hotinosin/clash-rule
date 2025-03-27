@@ -55,12 +55,10 @@ DOMAIN-SUFFIX,duosecurity.com
 DOMAIN-SUFFIX,kwenta.eth.limo
 DOMAIN-KEYWORD,the-qrcode-generator
 DOMAIN-SUFFIX,stablevideo.com
-DOMAIN-SUFFIX,kwenta.eth.limo
 DOMAIN-SUFFIX,zksyncpepe.com
 DOMAIN-SUFFIX,knownfoxes.com
 DOMAIN-SUFFIX,airdrop.altlayer.io
 DOMAIN-SUFFIX,mocaverse.xyz
-DOMAIN-SUFFIX,dexscreener.com
 DOMAIN-SUFFIX,chimera.meme
 DOMAIN-SUFFIX,ave.io
 DOMAIN-SUFFIX,geckoterminal.com
@@ -83,5 +81,4 @@ DOMAIN-SUFFIX,ai
 DOMAIN-SUFFIX,io
 DOMAIN-SUFFIX,coinmarketcap.com
 DOMAIN-SUFFIX,yahoo.com
-DOMAIN-SUFFIX,aicoin.com
-DOMAIN-SUFFIX,aicoinstorge.com
+DOMAIN-KEYWORD,aicoin
