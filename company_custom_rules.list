@@ -24,6 +24,7 @@ DOMAIN-SUFFIX,rsshub.app
 DOMAIN-SUFFIX,v2ex.com
 DOMAIN-SUFFIX,docker.com
 DOMAIN-SUFFIX,docker.io
+DOMAIN-KEYWORD,wiki
 
 #crypto
 DOMAIN-SUFFIX,celer.network
