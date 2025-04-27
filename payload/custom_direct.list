@@ -1,0 +1,9 @@
+payload:
+  - # 补充列表-custom-direct
+  - # 域名后缀匹配
+  - DOMAIN-SUFFIX,appstorrent.ru
+  - # 域名关键字匹配
+  - DOMAIN,hotinosin.eu.org
+  - DOMAIN-KEYWORD,tinder
+  - DOMAIN-KEYWORD,apple
+  - DOMAIN-KEYWORD,cn
