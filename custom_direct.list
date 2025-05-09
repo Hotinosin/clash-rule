@@ -7,5 +7,3 @@ DOMAIN-SUFFIX,api.day.app
 # 域名关键字匹配
 DOMAIN,hotinosin.eu.org
 DOMAIN-KEYWORD,tinder
-DOMAIN-KEYWORD,apple
-DOMAIN-KEYWORD,cn
