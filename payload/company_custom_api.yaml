@@ -1,7 +1,7 @@
 payload:
-  - # 数据策略组
-  - #DOMAIN-KEYWORD,okx
-  - #DOMAIN-KEYWORD,binance
+  # 数据策略组
+  # - DOMAIN-KEYWORD,okx
+  # - DOMAIN-KEYWORD,binance
   - DOMAIN-SUFFIX,1token.tech
   - DOMAIN-SUFFIX,api.binance.com
   - DOMAIN-SUFFIX,fapi.binance.com
