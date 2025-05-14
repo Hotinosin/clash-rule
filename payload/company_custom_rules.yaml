@@ -4,6 +4,8 @@ payload:
   - DOMAIN-SUFFIX,shuttle.gt-all.com
   - DOMAIN-SUFFIX,gt-go.com
   - DOMAIN-KEYWORD,nikkinikki
+  #测试区域
+  - DOMAIN-SUFFIX,ipwho.is
   #日常
   - DOMAIN-SUFFIX,jetbrains.com
   - DOMAIN-SUFFIX,atlassian.com
