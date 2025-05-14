@@ -1,10 +1,10 @@
 payload:
-  - #订阅机场
+  #订阅机场
   - DOMAIN-SUFFIX,grempt.com
   - DOMAIN-SUFFIX,shuttle.gt-all.com
   - DOMAIN-SUFFIX,gt-go.com
   - DOMAIN-KEYWORD,nikkinikki
-  - #日常
+  #日常
   - DOMAIN-SUFFIX,jetbrains.com
   - DOMAIN-SUFFIX,atlassian.com
   - DOMAIN-SUFFIX,thingiverse.com
@@ -26,7 +26,7 @@ payload:
   - DOMAIN-SUFFIX,docker.io
   - DOMAIN-KEYWORD,wiki
   - DOMAIN-SUFFIX,greasyfork.org
-  - #crypto
+  #crypto
   - DOMAIN-SUFFIX,celer.network
   - DOMAIN-KEYWORD,gateio
   - DOMAIN-SUFFIX,zora.co
