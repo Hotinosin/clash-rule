@@ -84,6 +84,7 @@ payload:
 #  - DOMAIN-SUFFIX,io
   - DOMAIN-SUFFIX,coinmarketcap.com
   - DOMAIN-SUFFIX,yahoo.com
-#  - DOMAIN-KEYWORD,aicoin
+  - DOMAIN-SUFFIX,aicoin.com
+  - DOMAIN-SUFFIX,static.aicoinstorge.com
   - DOMAIN-SUFFIX,bigcoin.tech
   - DOMAIN-SUFFIX,reservoir.tools
