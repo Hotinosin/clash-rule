@@ -6,6 +6,8 @@ payload:
   - DOMAIN-KEYWORD,nikkinikki
   #测试区域
   - DOMAIN-SUFFIX,ipwho.is
+  #ai
+  - DOMAIN-KEYWORD,trae
   #日常
   - DOMAIN-SUFFIX,jetbrains.com
   - DOMAIN-SUFFIX,atlassian.com
