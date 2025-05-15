@@ -3,7 +3,8 @@ payload:
   - DOMAIN-SUFFIX,grempt.com
   - DOMAIN-SUFFIX,shuttle.gt-all.com
   - DOMAIN-SUFFIX,gt-go.com
-  - DOMAIN-KEYWORD,nikkinikki
+  - DOMAIN-KEYWORD,nikki
+  - DOMAIN-SUFFIX,qichiyu.com
   #测试区域
   - DOMAIN-SUFFIX,ipwho.is
   #ai
