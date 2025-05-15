@@ -8,6 +8,7 @@ payload:
   - DOMAIN-SUFFIX,ipwho.is
   #ai
   - DOMAIN-KEYWORD,trae
+  - DOMAIN-SUFFIX,clawcloudrun.com
   #日常
   - DOMAIN-SUFFIX,jetbrains.com
   - DOMAIN-SUFFIX,atlassian.com
