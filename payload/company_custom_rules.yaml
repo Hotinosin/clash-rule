@@ -32,11 +32,19 @@ payload:
   - DOMAIN-SUFFIX,docker.io
   - DOMAIN-KEYWORD,wiki
   - DOMAIN-SUFFIX,greasyfork.org
+  - DOMAIN-SUFFIX,com.hk
+  - DOMAIN-SUFFIX,cloudfront.net
+  - DOMAIN-SUFFIX,googletagmanager.com
+  - DOMAIN-KEYWORD,the-qrcode-generator
+  - DOMAIN-SUFFIX,stablevideo.com
+  - DOMAIN,npmmirror.com
+  - DOMAIN-SUFFIX,githubusercontent.com
+  - DOMAIN-SUFFIX,githubassets.com
+  
   #crypto
   - DOMAIN-SUFFIX,celer.network
   - DOMAIN-KEYWORD,gateio
   - DOMAIN-SUFFIX,zora.co
-  - DOMAIN-SUFFIX,com.hk
   - DOMAIN-SUFFIX,blocknative.com
   - DOMAIN-SUFFIX,hbdm.com
   - DOMAIN-SUFFIX,mint.fun
@@ -45,23 +53,16 @@ payload:
   - DOMAIN-SUFFIX,galaxy.eco
   - DOMAIN-SUFFIX,zerion.io
   - DOMAIN,api.chainbase.online
-  - DOMAIN,npmmirror.com
-  - DOMAIN-SUFFIX,githubusercontent.com
-  - DOMAIN-SUFFIX,githubassets.com
   - DOMAIN-SUFFIX,saasexch.co
   - DOMAIN-SUFFIX,saasexch.com
   - DOMAIN-SUFFIX,polygonscan.com
   - DOMAIN-KEYWORD,keplr
   - DOMAIN-SUFFIX,amplitude.com
   - DOMAIN-SUFFIX,vercel.app
-  - DOMAIN-SUFFIX,cloudfront.net
-  - DOMAIN-SUFFIX,googletagmanager.com
   - DOMAIN-SUFFIX,xonetoken.com
   - DOMAIN-SUFFIX,deribit.com
   - DOMAIN-SUFFIX,duosecurity.com
   - DOMAIN-SUFFIX,kwenta.eth.limo
-  - DOMAIN-KEYWORD,the-qrcode-generator
-  - DOMAIN-SUFFIX,stablevideo.com
   - DOMAIN-SUFFIX,zksyncpepe.com
   - DOMAIN-SUFFIX,knownfoxes.com
   - DOMAIN-SUFFIX,airdrop.altlayer.io
