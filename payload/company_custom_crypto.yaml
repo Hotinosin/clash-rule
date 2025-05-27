@@ -1,6 +1,6 @@
 payload:
   #crypto
-  - DOMAIN-SUFFIX,okx.com
+  # - DOMAIN-SUFFIX,okx.com
   - DOMAIN-SUFFIX,celer.network
   - DOMAIN-KEYWORD,gateio
   - DOMAIN-SUFFIX,zora.co
