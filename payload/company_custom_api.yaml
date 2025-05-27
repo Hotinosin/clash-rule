@@ -5,6 +5,8 @@ payload:
   - DOMAIN-SUFFIX,api.binance.com
   - DOMAIN-SUFFIX,fapi.binance.com
   - DOMAIN-SUFFIX,stream.binance.com
+  - DOMAIN-SUFFIX,fstream.binance.info
+  - DOMAIN-SUFFIX,nbstream.binance.info
   - DOMAIN-SUFFIX,api.huobi.pro
   - DOMAIN-SUFFIX,api.coinbase.com
   - DOMAIN-SUFFIX,dapi.binance.com
