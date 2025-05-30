@@ -14,4 +14,4 @@ payload:
   - DOMAIN-SUFFIX,papi.binance.com
   - DOMAIN-SUFFIX,fstream.binance.com
   - DOMAIN-SUFFIX,bitfinex.com
-  - DOMAIN-SUFFIX,www.deribit.com
+  - DOMAIN-SUFFIX,deribit.com
