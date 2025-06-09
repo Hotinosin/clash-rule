@@ -5,6 +5,7 @@ payload:
   - DOMAIN-SUFFIX,gt-go.com
   - DOMAIN-KEYWORD,nikki
   - DOMAIN-SUFFIX,qichiyu.com
+  - DOMAIN-KEYWORD,foonfriends
   #测试区域
   - DOMAIN-SUFFIX,ipwho.is
   #ai
