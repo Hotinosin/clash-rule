@@ -1,8 +1,8 @@
 payload:
  # 补充列表-custom-direct
-  - # 域名后缀匹配
   - DOMAIN-SUFFIX,appstorrent.ru
   - DOMAIN-SUFFIX,api.day.app
-# 域名关键字匹配
-  - DOMAIN,hotinosin.eu.org
+ # 域名关键字匹配
+  - DOMAIN-SUFFIX,hotinosin.eu.org
+  
   - DOMAIN-KEYWORD,tinder
