@@ -7,6 +7,7 @@ payload:
   - DOMAIN-SUFFIX,grempt.com
   - DOMAIN-SUFFIX,cyberbus.net
   - DOMAIN-SUFFIX,brew.sh
+  - DOMAIN-SUFFIX,qichiyu.com
   - DOMAIN,ptest-1.ipcheck.ing
   - DOMAIN,ptest-3.ipcheck.ing
   - DOMAIN,ptest-5.ipcheck.ing
