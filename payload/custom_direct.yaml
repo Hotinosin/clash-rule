@@ -4,5 +4,7 @@ payload:
   - DOMAIN-SUFFIX,api.day.app
  # 域名关键字匹配
   - DOMAIN-SUFFIX,hotinosin.eu.org
+  - DOMAIN-SUFFIX,hotinosin.dpdns.org
   - DOMAIN-SUFFIX,hotinosin.cn,no-resolve
+  - DOMAIN-KEYWORD,hotinosin
   - DOMAIN-KEYWORD,tinder
