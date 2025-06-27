@@ -42,3 +42,4 @@ payload:
   - DOMAIN-SUFFIX,githubusercontent.com
   - DOMAIN-SUFFIX,githubassets.com
   - DOMAIN-SUFFIX,unsplash.com
+  - DOMAIN-SUFFIX,cloudfront.net
