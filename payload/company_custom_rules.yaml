@@ -1,46 +1,64 @@
 payload:
-  #订阅机场
+  # =================================================
+  # 1. 代理服务商 (必要, 请勿修改)
+  # =================================================
   - DOMAIN-SUFFIX,grempt.com
   - DOMAIN-SUFFIX,shuttle.gt-all.com
   - DOMAIN-SUFFIX,gt-go.com
   - DOMAIN-KEYWORD,nikki
   - DOMAIN-SUFFIX,qichiyu.com
   - DOMAIN-KEYWORD,foonfriends
-  #测试区域
-  - DOMAIN-SUFFIX,ipwho.is
-  #ai
-  - DOMAIN-KEYWORD,trae
-  - DOMAIN-SUFFIX,clawcloudrun.com
-  #日常
+
+  # =================================================
+  # 2. 开发与技术工具 (建议保留)
+  # =================================================
   - DOMAIN-SUFFIX,jetbrains.com
   - DOMAIN-SUFFIX,atlassian.com
-  - DOMAIN-SUFFIX,thingiverse.com
-  - DOMAIN-SUFFIX,yts.mx
-  - DOMAIN-SUFFIX,glassnode.com
-  - DOMAIN-SUFFIX,cloudflare.com
-  - DOMAIN-SUFFIX,worldvectorlogo.com
-  - DOMAIN-SUFFIX,mirror.xyz
-  - DOMAIN-SUFFIX,imgix.net
-  - DOMAIN-SUFFIX,coze.com
-  - DOMAIN-SUFFIX,linux.do
-  - DOMAIN-SUFFIX,quantocracy.com
-  - DOMAIN-SUFFIX,joinautopilot.com
-  - DOMAIN-SUFFIX,tradingview.com
-  - DOMAIN-SUFFIX,qichiyu.com
-  - DOMAIN-SUFFIX,rsshub.app
-  - DOMAIN-SUFFIX,v2ex.com
   - DOMAIN-SUFFIX,docker.com
   - DOMAIN-SUFFIX,docker.io
-  - DOMAIN-KEYWORD,wiki
-  - DOMAIN-SUFFIX,greasyfork.org
-  - DOMAIN-SUFFIX,com.hk
-  - DOMAIN-SUFFIX,cloudfront.net
-  - DOMAIN-SUFFIX,googletagmanager.com
-  - DOMAIN-KEYWORD,the-qrcode-generator
-  - DOMAIN-SUFFIX,stablevideo.com
-  - DOMAIN,npmmirror.com
   - DOMAIN-SUFFIX,githubusercontent.com
   - DOMAIN-SUFFIX,githubassets.com
+  - DOMAIN-SUFFIX,greasyfork.org
+  - DOMAIN-SUFFIX,linux.do           # 理由: 技术社区, 可直连
+  - DOMAIN-SUFFIX,v2ex.com           # 理由: 国内社区, 可直连
+  
+  # =================================================
+  # 3. AI 及内容服务 (建议保留)
+  # =================================================
+  - DOMAIN-KEYWORD,trae
+  - DOMAIN-SUFFIX,clawcloudrun.com
+  - DOMAIN-SUFFIX,coze.com
+  - DOMAIN-SUFFIX,stablevideo.com
+  - DOMAIN-SUFFIX,imgix.net
+  - DOMAIN-SUFFIX,googletagmanager.com
   - DOMAIN-SUFFIX,unsplash.com
-  - DOMAIN-SUFFIX,cloudfront.net
+  - DOMAIN-SUFFIX,mirror.xyz
+  - DOMAIN-SUFFIX,rsshub.app
+  
+  # =================================================
+  # 4. 金融与资源站 (建议保留)
+  # =================================================
+  - DOMAIN-SUFFIX,yts.mx
+  - DOMAIN-SUFFIX,glassnode.com
+  - DOMAIN-SUFFIX,quantocracy.com
+  - DOMAIN-SUFFIX,tradingview.com
   - DOMAIN-SUFFIX,investing.com
+  - DOMAIN-SUFFIX,joinautopilot.com # 如果您发现这个网站可以直连, 可以注释掉
+
+  # =================================================
+  # 5. 测试网站 (建议保留)
+  # =================================================
+  - DOMAIN-SUFFIX,ipwho.is
+  
+  
+  # - DOMAIN-SUFFIX,com.hk             # 理由: 规则太宽泛, 会代理所有香港网站
+  
+  # =================================================
+  # 6. 以下为已注释掉的规则 (可根据需要恢复)
+  # =================================================
+  # - DOMAIN,npmmirror.com             # 理由: 国内淘宝镜像, 无需代理
+  # - DOMAIN-SUFFIX,cloudflare.com     # 理由: 官网可直连, 除非需要用其特定服务
+  # - DOMAIN-SUFFIX,worldvectorlogo.com # 理由: Logo站, 可直连
+  # - DOMAIN-KEYWORD,wiki              # 理由: 规则太宽泛, 建议用 DOMAIN-SUFFIX,wikipedia.org 代替
+  # - DOMAIN-KEYWORD,the-qrcode-generator # 理由: 规则太模糊, 大部分二维码生成器可用
+  # - DOMAIN-SUFFIX,cloudfront.net     # 理由: 全球CDN, 规则太宽泛, 易干扰国内网站速度
