@@ -49,6 +49,7 @@ payload:
   # 5. 测试网站 (建议保留)
   # =================================================
   - DOMAIN-SUFFIX,ipwho.is
+  - DOMAIN-SUFFIX,same.new
   
   
   # - DOMAIN-SUFFIX,com.hk             # 理由: 规则太宽泛, 会代理所有香港网站
