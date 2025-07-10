@@ -1,3 +1,5 @@
 payload:
-  - # ddns
-  - DOMAIN-KEYWORD,hotinosin
+#  - DOMAIN-KEYWORD,hotinosin
+  - DOMAIN-SUFFIX,hotinosin.eu.org
+  - DOMAIN-SUFFIX,hotinosin.cn
+  - DOMAIN-SUFFIX,hotinosin.dpdns.org
