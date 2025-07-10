@@ -45,6 +45,8 @@ payload:
   - DOMAIN-SUFFIX,tradingview.com
   - DOMAIN-SUFFIX,investing.com
   - DOMAIN-SUFFIX,joinautopilot.com # 如果您发现这个网站可以直连, 可以注释掉
+  - DOMAIN-SUFFIX,cloudfront.net     # 理由: 全球CDN, 规则太宽泛, 易干扰国内网站速度
+
 
   # =================================================
   # 5. 测试网站 (建议保留)
