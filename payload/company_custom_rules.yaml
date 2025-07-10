@@ -8,6 +8,7 @@ payload:
   - DOMAIN-KEYWORD,nikki
   - DOMAIN-SUFFIX,qichiyu.com
   - DOMAIN-KEYWORD,foonfriends
+  - DOMAIN-SUFFIX,foonfriends.xyz
 
   # =================================================
   # 2. 开发与技术工具 (建议保留)
