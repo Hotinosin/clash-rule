@@ -8,6 +8,7 @@ payload:
   - DOMAIN-SUFFIX,governance.mav.xyz
   - DOMAIN-SUFFIX,mirrors.vsean.net
   - DOMAIN-SUFFIX,api.day.app
+  - DOMAIN-SUFFIX,seetacloud.com #autodl
 # com
   - DOMAIN-SUFFIX,upyun.com
   - DOMAIN-SUFFIX,quantclass.cn
