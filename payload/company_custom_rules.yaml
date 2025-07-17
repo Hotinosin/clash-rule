@@ -22,6 +22,7 @@ payload:
   - DOMAIN-SUFFIX,greasyfork.org
   - DOMAIN-SUFFIX,linux.do           # 理由: 技术社区, 可直连
   - DOMAIN-SUFFIX,v2ex.com           # 理由: 国内社区, 可直连
+  - DOMAIN-SUFFIX,alpinelinux.org
   
   # =================================================
   # 3. AI 及内容服务 (建议保留)
