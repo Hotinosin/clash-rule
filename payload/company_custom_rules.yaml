@@ -9,6 +9,7 @@ payload:
   - DOMAIN-SUFFIX,qichiyu.com
   - DOMAIN-KEYWORD,foonfriends
   - DOMAIN-SUFFIX,foonfriends.xyz
+  - DOMAIN-SUFFIX,hysteria.network
 
   # =================================================
   # 2. 开发与技术工具 (建议保留)
