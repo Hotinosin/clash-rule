@@ -2,6 +2,7 @@ payload:
  # 补充列表-custom-direct
   - DOMAIN-SUFFIX,appstorrent.ru
   - DOMAIN-SUFFIX,api.day.app
+  - DOMAIN-SUFFIX,proxmox.com
  # 域名关键字匹配
   - DOMAIN-SUFFIX,hotinosin.eu.org
   - DOMAIN-SUFFIX,hotinosin.dpdns.org
