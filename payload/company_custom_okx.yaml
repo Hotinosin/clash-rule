@@ -1,3 +1,4 @@
 payload:
   #okx
   - DOMAIN-SUFFIX,okx.com
+  - DOMAIN-KEYWORD,okx
