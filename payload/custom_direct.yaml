@@ -3,6 +3,7 @@ payload:
   - DOMAIN-SUFFIX,appstorrent.ru
   - DOMAIN-SUFFIX,api.day.app
   - DOMAIN-SUFFIX,proxmox.com
+  - DOMAIN-SUFFIX,akile.io
  # 域名关键字匹配
   - DOMAIN-SUFFIX,hotinosin.eu.org
   - DOMAIN-SUFFIX,hotinosin.dpdns.org
