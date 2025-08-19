@@ -10,12 +10,13 @@ payload:
   - DOMAIN-SUFFIX,mirrors.vsean.net
   - DOMAIN-SUFFIX,api.day.app
   - DOMAIN-SUFFIX,seetacloud.com #autodl
+  - akilo.io
 # com
   - DOMAIN-SUFFIX,upyun.com
   - DOMAIN-SUFFIX,quantclass.cn
   - DOMAIN-SUFFIX,qtcls.cn
   - DOMAIN-KEYWORD,quantclass
-#DOMAIN,checkip.amazonaws.com
-#ip
+# DOMAIN,checkip.amazonaws.com
+# ip
   - IP-CIDR,106.75.252.187/32,no-resolve
   - IP-CIDR,121.5.231.187/32,no-resolve
