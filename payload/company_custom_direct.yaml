@@ -10,7 +10,7 @@ payload:
   - DOMAIN-SUFFIX,mirrors.vsean.net
   - DOMAIN-SUFFIX,api.day.app
   - DOMAIN-SUFFIX,seetacloud.com #autodl
-  - DOMAIN-SUFFIX,akilo.io
+  - DOMAIN-SUFFIX,akile.io
 # com
   - DOMAIN-SUFFIX,upyun.com
   - DOMAIN-SUFFIX,quantclass.cn
