@@ -26,6 +26,7 @@ payload:
   - DOMAIN-SUFFIX,alpinelinux.org
   - DOMAIN-SUFFIX,firecrawl.dev    #ai-apikey
   - DOMAIN-SUFFIX,groq.com     #ai-apikey
+  - DOMAIN-SUFFIX,rustdesk.com
   
   # =================================================
   # 3. AI 及内容服务 (建议保留)
