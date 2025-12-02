@@ -27,7 +27,6 @@ payload:
   - DOMAIN-SUFFIX,firecrawl.dev    #ai-apikey
   - DOMAIN-SUFFIX,groq.com     #ai-apikey
   - DOMAIN-SUFFIX,rustdesk.com
-  - DOMAIN-SUFFIX,uicdn.toast.com
   
   # =================================================
   # 3. AI 及内容服务 (建议保留)
