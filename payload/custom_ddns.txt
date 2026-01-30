@@ -1,4 +1,4 @@
-DOMAIN-SUFFIX,hotinosin.eu.org
+# DOMAIN-SUFFIX,hotinosin.eu.org
 DOMAIN-SUFFIX,hotinosin.cn
-DOMAIN-SUFFIX,hotinosin.dpdns.org
+# DOMAIN-SUFFIX,hotinosin.dpdns.org
 DOMAIN-SUFFIX,hotinosin.site
