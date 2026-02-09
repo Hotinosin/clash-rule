@@ -4,16 +4,12 @@ payload:
   - DOMAIN-KEYWORD,mirrors
   - DOMAIN-KEYWORD,cn
 # fnf机场订阅链接只能国内订阅  
-  - DOMAIN-KEYWORD,love.xn
+  - DOMAIN-SUFFIX,love.xn
   - DOMAIN-SUFFIX,bing.com  
   - DOMAIN-SUFFIX,xiaoeknow.com
-  - DOMAIN-SUFFIX,hotinosin.eu.org
   - DOMAIN-SUFFIX,governance.mav.xyz
   - DOMAIN-SUFFIX,mirrors.vsean.net
   - DOMAIN-SUFFIX,api.day.app
-  - DOMAIN-SUFFIX,seetacloud.com #autodl
-  - DOMAIN-SUFFIX,akile.io
-
 # com
   - DOMAIN-SUFFIX,upyun.com
   - DOMAIN-SUFFIX,quantclass.cn
